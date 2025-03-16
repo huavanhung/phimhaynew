@@ -114,7 +114,7 @@ p {
 a {
     color: #6a11cb;
     text-decoration: none;
-    transition: color 0.3s ease;
+    transition: color 0.1s ease;
 }
 
 a:hover {
