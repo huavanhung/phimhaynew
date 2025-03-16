@@ -10,7 +10,7 @@ body {
 }
 
 .form-container {
-       background-image: url('backroud.jepg'); /* Đường dẫn đến hình ảnh */
+       background-image: url('backroud.jpeg'); /* Đường dẫn đến hình ảnh */
     background-size: cover; /* Phủ kín nền */
     background-position: center; /* Căn giữa hình ảnh */
     background-repeat: no-repeat;
