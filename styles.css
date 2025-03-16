@@ -91,7 +91,7 @@ input[type="email"]:focus {
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
-    transition: background 0.3s ease, transform 0.3s ease;
+    transition: background 0.1s ease, transform 0.1s ease;
 }
 
 .btn-login:hover,
